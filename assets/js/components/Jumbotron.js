@@ -1,9 +1,10 @@
 import React from "react";
+import './Jumbotron.css';
 
 const Jumbotron = () => {
   return (
     <div className="jumbotron">
-      <h2>Welcome to Phoenix with Webpack and React</h2>
+      <h2 class="colorful-text">Welcome to Phoenix with Webpack and React</h2>
       <p className="lead">
         A productive web framework that<br />
         does not compromise speed and maintainability.
