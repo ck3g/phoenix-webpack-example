@@ -1,5 +1,11 @@
-# WebpackExample
+# How to use Webpack and React with Phoenix 1.3
 
+Check the [How to use Webpack and React with Phoenix 1.3](http://whatdidilearn.info/2018/05/20/how-to-use-webpack-and-react-with-phoenix-1-3.html) article for more details.
+
+Visit [the live demo](https://phoenix-webpack-example.herokuapp.com) page deployed on Heroku.
+
+
+## Run on localhost
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
@@ -11,10 +17,3 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 Ready to run in production? Please [check our deployment guides](http://www.phoenixframework.org/docs/deployment).
 
-## Learn more
-
-  * Official website: http://www.phoenixframework.org/
-  * Guides: http://phoenixframework.org/docs/overview
-  * Docs: https://hexdocs.pm/phoenix
-  * Mailing list: http://groups.google.com/group/phoenix-talk
-  * Source: https://github.com/phoenixframework/phoenix
